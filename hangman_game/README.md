@@ -36,7 +36,7 @@ python main.py
 Follow the prompts to guess letters and try to uncover the hidden word before running out of lives.
 
 Game Rules
-You have a limited number of lives, 6 to be specific. Every incorrect guess will reduce the number of lives remaining.
+You have a limited number of lives, 8 to be specific. Every incorrect guess will reduce the number of lives remaining.
 Guess one letter at a time. If the letter is present in the word, it will be revealed; otherwise, you will lose a life.
 The game ends when you guess the entire word correctly or when you run out of lives.
 Have fun and try to guess as many words as you can!
